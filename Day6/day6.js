@@ -15,4 +15,4 @@ const findSubstringIndex = (text, sub) => {
 	return res;
 }
 
-export default findSubstringIndex
+export default findSubstringIndex;
